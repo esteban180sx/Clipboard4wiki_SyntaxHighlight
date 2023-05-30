@@ -1,6 +1,6 @@
 # Clipboard4wiki_SyntaxHighlight
 
-This is a MediaWiki extension that is an edited version of [Clipboard4wiki]("https://github.com/narizhny/Clipboard4wiki") that integrates the clipboard button with the SyntaxHighlight MediaWiki extension adding a clipboard button to the highlighted code.
+This is a MediaWiki extension that is an edited version of [Clipboard4wiki](https://github.com/narizhny/Clipboard4wiki) that integrates the clipboard button with the SyntaxHighlight MediaWiki extension adding a clipboard button to the highlighted code.
 
 <p align='left'>
 <img src="">
